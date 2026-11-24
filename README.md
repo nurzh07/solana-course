@@ -18,3 +18,15 @@ Main source files:
 - week5: `programs/counter_app/src/lib.rs`, `tests/counter_app.ts`
 - week6: `programs/profile_app/src/lib.rs`, `tests/profile_app.ts`
 - week7: `client.ts` (the token itself was created with `spl-token` CLI)
+
+## Проект «Liquidity Vault» (недели 8-12)
+
+| Неделя | Тема | Папка |
+|--------|------|-------|
+| 8 | Каркас vault (РК1) | `week-8` |
+| 9 | Депозит и share-токены | `week-9` |
+| 10 | Вывод, CPI Burn + TransferChecked | `week-10` |
+| 11 | Свои токены и CLMM-пул Raydium (devnet) | `week-11` |
+| 12 | Swap через Raydium (CPI) | `week-12/vault` (программа), `week-12/client` (скрипты) |
+
+Программа vault (devnet): `C9pH3cWmgQihD2xPQgWxsb7QyWkNpXQNPxsCBkVJrQM1`. Пул Raydium CLMM: `97pm3KyTiewPK1e9ho64madehSy6Xz7rqHAj2PKPZwr4`. Подробности и ссылки на транзакции: `week-12/vault/README.md`.
