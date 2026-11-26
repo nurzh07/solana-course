@@ -7,3 +7,14 @@ test-ledger/
 id.json
 recipient.json
 .env
+
+# Solana security
+node_modules/
+target/
+.env
+.env.*
+id.json
+*-keypair.json
+week13-trader.json
+*.bak
+*.log

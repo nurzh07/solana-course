@@ -30,3 +30,19 @@ Main source files:
 | 12 | Swap через Raydium (CPI) | `week-12/vault` (программа), `week-12/client` (скрипты) |
 
 Программа vault (devnet): `C9pH3cWmgQihD2xPQgWxsb7QyWkNpXQNPxsCBkVJrQM1`. Пул Raydium CLMM: `97pm3KyTiewPK1e9ho64madehSy6Xz7rqHAj2PKPZwr4`. Подробности и ссылки на транзакции: `week-12/vault/README.md`.
+
+## Week 13 — Raydium CLMM Liquidity Management
+
+- Open CLMM position via CPI
+- Collect trading fees
+- Close liquidity position
+- Independent trader swaps
+- Automatic range monitoring
+- Position rebalancing
+- Admin authorization tests
+- Deposit and withdrawal protection
+- Successful real withdrawal on Devnet
+
+Status: Completed
+
+[Week 13 source code and documentation](./week-13/)
